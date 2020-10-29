@@ -1,0 +1,6 @@
+[submodule "functionoid"]
+	path = functionoid
+	url = git@github.com:microblink/functionoid.git
+[submodule "config_ex"]
+	path = config_ex
+	url = https://github.com/microblink/config_ex
